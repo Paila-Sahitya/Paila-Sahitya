@@ -1,6 +1,7 @@
 # 👋Hi I'm Sahitya
 💻 **Aspiring Fullstack Developer**
-I'm passionate about building scalable web applications and learning fullstack ecosystem step by step. Currently diving into React for frontend and exploring backend development.
+I'm passionate about building scalable and user-friendly web applications.  
+Currently exploring the **MERN Stack** - learning React for the frontend and diving into backend development with Node.js and Express.
 
 ---
 
@@ -16,13 +17,20 @@ I'm passionate about building scalable web applications and learning fullstack e
  - **Languages:** `JavaScript`, `C`, `C++`, `Python`
  - **Frontend:** `React`, `HTML`, `CSS`
  - **Backend:** `Node.js`, `Express`, `MongoDB`
+ - **Data Analysis:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
  - **Tools:** `Git`, `GitHub`, `VS Code`, `Postman`
 
 ---
 
-## 🚀 Projects
-- 🎮 [Pokémon Memory Game](https://github.com/Paila-Sahitya/pokemon-memory-game) - Fun React based game
-- 🐍 [Beginner Python Projects](https://github.com/Paila-Sahitya/beginner-python-projects) - Strengthening logic and fundamentals
+## 🚀 Featured Projects
+- 🌀 [Anime Realm - Data Exploration](https://github.com/Paila-Sahitya/anime-realm)  
+  *Data-driven exploration of audience ratings, genres and trends in anime*
+- 💼 [Tech Career Trend Analysis](https://github.com/Paila-Sahitya/tech_career_trends)  
+  *EDA on global tech and data science salaries (2023-2024)*  
+- 🎮 [Pokémon Memory Game](https://github.com/Paila-Sahitya/pokemon-memory-game)  
+  *A fun React based Memory game*    
+- 🐍 [Beginner Python Projects](https://github.com/Paila-Sahitya/beginner-python-projects)  
+  *A collection of beginner-to-intermediate Python projects to Strengthen logic and fundamentals*   
 
 ---
 
